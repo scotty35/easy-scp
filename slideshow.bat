@@ -1,0 +1,1 @@
+python C:\Users\SSEL-SOC-01\Desktop\upload\slide-upload.py
